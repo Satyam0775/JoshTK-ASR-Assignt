@@ -1,0 +1,7 @@
+asr_env/
+data/
+models/
+__pycache__/
+*.pyc
+*.pth
+*.pt

@@ -1,0 +1,3 @@
+                           Model	     WER
+0	   Whisper Small (Pretrained)	0.829078
+1	FT Whisper Small (Fine-Tuned)	0.318355ttttttttttttttttttttttttttttttttttttttttttt

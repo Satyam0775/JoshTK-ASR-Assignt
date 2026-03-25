@@ -1,0 +1,14 @@
+torch
+torchaudio
+transformers
+datasets
+evaluate
+jiwer
+librosa
+soundfile
+pandas
+numpy
+requests
+tqdm
+rapidfuzz
+indic-nlp-library
